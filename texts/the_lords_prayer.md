@@ -26,4 +26,6 @@ The purpose of this translation exercise is to encode communication or communion
 
 ## License
 
-This is a passage of scripture adapted into modern English based upon the King James Version of the Christian Bible. As the KJV is in the pulic domain, the intepreter claims no special license over this adaptation of the passage.
+This is a passage of scripture adapted into modern English based loosely upon the King James Version of the Christian Bible. As the King James translation is in the pulic domain, there is no licensing requirement for the underlying translation. The intepreter claims no special license over this adaptation of the passage.
+
+You may use this resource as you see fit, with or without attribution.
