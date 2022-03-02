@@ -24,105 +24,105 @@ Some sentences have been slightly modified to remove references to a specific cu
 
 ## The List
 
-01. The sun shines.
-02. The sun is shining.
-03. The sun shone.
-04. The sun will shine.
-05. The sun has been shining.
-06. The sun is shining again.
-07. The sun will shine tomorrow.
-08. The sun shines brightly.
-09. The bright sun shines.
-10. The sun is rising now.
-11. All the people shouted.
-12. Some of the people shouted.
-13. Many of the people shouted twice.
-14. Happy people often shout.
-15. The kitten jumped up.
-16. The kitten jumped onto the table.
-17. My little kitten walked away.
-18. It's raining.
-19. The rain came down.
-20. The kitten is playing in the rain.
-21. The rain has stopped.
-22. Soon the rain will stop.
-23. I hope the rain stops soon.
-24. Once wild animals lived here.
-25. Slowly she looked around.
-26. Go away!
-27. Let's go!
-28. You should go.
-29. I will be happy to go.
-30. He will arrive soon.
-31. The baby's ball has rolled away.
-32. The two boys are working together.
-33. This mist will probably clear away.
-34. Lovely flowers are growing everywhere.
-35. We should eat more slowly.
-36. You have come too soon.
-37. You must write more neatly.
-38. Directly opposite stands a wonderful palace.
-39. Henry's dog is lost.
-40. My cat is black.
-41. The little girl's doll is broken.
-42. I usually sleep soundly.
-43. The children ran after Jack.
-44. I can play after school.
-45. We went to the village for a visit.
-46. We arrived at the river.
-47. I have been waiting for you.
-48. The campers sat around the fire.
-49. A little girl with a kitten sat near me.
-50. The child waited at the door for her father.
-51. Yesterday the oldest girl in the village lost her kitten.
-52. Were you born in this village?
-53. Can your brother dance well?
-54. Did the man leave?
-55. Is your sister coming for you?
-56. Can you come tomorrow?
-57. Have the neighbors gone away for the winter?
-58. Does the robin sing in the rain?
-59. Are you going with us to the concert?
-60. Have you ever traveled in the jungle?
-61. We sailed down the river for several miles.
-62. Everybody knows about hunting.
-63. On a Sunny morning after the solstice we started for the mountains.
-64. Tom laughed at the monkey's tricks.
-65. An old man with a walking stick stood beside the fence.
-66. The squirrel's nest was hidden by drooping boughs.
-67. The little seeds waited patiently under the snow for the warm spring sun.
-68. Many little girls with wreaths of flowers on their heads danced around the bonfire.
-69. The cover of the basket fell to the floor.
-70. The first boy in the line stopped at the entrance.
-71. On the top of the hill in a little hut lived a wise old woman.
-72. During our residence in the country we often walked in the pastures.
-73. When will your guests from the city arrive?
-74. Near the mouth of the river, its course turns sharply towards the East.
-75. Between the two lofty mountains lay a fertile valley.
-76. Among the wheat grew tall red poppies.
-77. The strong roots of the oak trees were torn from the ground.
-78. The sun looked down through the branches upon the children at play.
-79. The west wind blew across my face like a friendly caress.
-80. The spool of thread rolled across the floor.
-81. A box of growing plants stood in the Window.
-82. I am very happy.
-83. These oranges are juicy.
-84. Sea water is salty.
-85. The streets are full of people.
-86. Sugar tastes sweet.
-87. The fire feels hot.
-88. The little girl seemed lonely.
-89. The little boy's father had once been a sailor.
-90. I have lost my blanket.
-91. A robin has built his nest in the apple tree.
-92. At noon we ate our lunch by the roadside.
-93. Mr. Jones made a knife for his little boy.
-94. Their voices sound very happy.
-95. Is today Monday?
-96. Have all the leaves fallen from the tree?
-97. Will you be ready on time?
-98. Will you send this message for me?
-99. Are you waiting for me?
+001. The sun shines.
+002. The sun is shining.
+003. The sun shone.
+004. The sun will shine.
+005. The sun has been shining.
+006. The sun is shining again.
+007. The sun will shine tomorrow.
+008. The sun shines brightly.
+009. The bright sun shines.
+010. The sun is rising now.
+011. All the people shouted.
+012. Some of the people shouted.
+013. Many of the people shouted twice.
+014. Happy people often shout.
+015. The kitten jumped up.
+016. The kitten jumped onto the table.
+017. My little kitten walked away.
+018. It's raining.
+019. The rain came down.
+020. The kitten is playing in the rain.
+021. The rain has stopped.
+022. Soon the rain will stop.
+023. I hope the rain stops soon.
+024. Once wild animals lived here.
+025. Slowly she looked around.
+026. Go away!
+027. Let's go!
+028. You should go.
+029. I will be happy to go.
+030. He will arrive soon.
+031. The baby's ball has rolled away.
+032. The two boys are working together.
+033. This mist will probably clear away.
+034. Lovely flowers are growing everywhere.
+035. We should eat more slowly.
+036. You have come too soon.
+037. You must write more neatly.
+038. Directly opposite stands a wonderful palace.
+039. Henry's dog is lost.
+040. My cat is black.
+041. The little girl's doll is broken.
+042. I usually sleep soundly.
+043. The children ran after Jack.
+044. I can play after school.
+045. We went to the village for a visit.
+046. We arrived at the river.
+047. I have been waiting for you.
+048. The campers sat around the fire.
+049. A little girl with a kitten sat near me.
+050. The child waited at the door for her father.
+051. Yesterday the oldest girl in the village lost her kitten.
+052. Were you born in this village?
+053. Can your brother dance well?
+054. Did the man leave?
+055. Is your sister coming for you?
+056. Can you come tomorrow?
+057. Have the neighbors gone away for the winter?
+058. Does the robin sing in the rain?
+059. Are you going with us to the concert?
+060. Have you ever traveled in the jungle?
+061. We sailed down the river for several miles.
+062. Everybody knows about hunting.
+063. On a Sunny morning after the solstice we started for the mountains.
+064. Tom laughed at the monkey's tricks.
+065. An old man with a walking stick stood beside the fence.
+066. The squirrel's nest was hidden by drooping boughs.
+067. The little seeds waited patiently under the snow for the warm spring sun.
+068. Many little girls with wreaths of flowers on their heads danced around the bonfire.
+069. The cover of the basket fell to the floor.
+070. The first boy in the line stopped at the entrance.
+071. On the top of the hill in a little hut lived a wise old woman.
+072. During our residence in the country we often walked in the pastures.
+073. When will your guests from the city arrive?
+074. Near the mouth of the river, its course turns sharply towards the East.
+075. Between the two lofty mountains lay a fertile valley.
+076. Among the wheat grew tall red poppies.
+077. The strong roots of the oak trees were torn from the ground.
+078. The sun looked down through the branches upon the children at play.
+079. The west wind blew across my face like a friendly caress.
+080. The spool of thread rolled across the floor.
+081. A box of growing plants stood in the Window.
+082. I am very happy.
+083. These oranges are juicy.
+084. Sea water is salty.
+085. The streets are full of people.
+086. Sugar tastes sweet.
+087. The fire feels hot.
+088. The little girl seemed lonely.
+089. The little boy's father had once been a sailor.
+090. I have lost my blanket.
+091. A robin has built his nest in the apple tree.
+092. At noon we ate our lunch by the roadside.
+093. Mr. Jones made a knife for his little boy.
+094. Their voices sound very happy.
+095. Is today Monday?
+096. Have all the leaves fallen from the tree?
+097. Will you be ready on time?
+098. Will you send this message for me?
+099. Are you waiting for me?
 100. Is this the first kitten of the litter?
 101. Are these shoes too big for you?
 102. How wide is the River?
