@@ -1570,7 +1570,7 @@ In addition to this, some commentary and annotation is provided for select words
 + rim
 + ring
 + Rip
-  + II.267: "Rip" refers to literary figure _Rip Van Winkle_
+  + I.206: "Rip" refers to literary figure _Rip Van Winkle_ (see also II.267, III.92, III.121)
 + ripe
 + ripple
 + rise
