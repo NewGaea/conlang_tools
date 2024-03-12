@@ -6,27 +6,27 @@
 
 * _An image of a man in a lab coat appears._
 
-オーキド　：　はじめまして！　ポケット　モンスターの　せかいへ　ようこそ！<br/>
-　　　　　　　わたしの　なまえは　オーキド<br/>
+オーキド　：　はじめまして！　ポケット　モンスターの　せかいへ　ようこそ！
+　　　　　　　わたしの　なまえは　オーキド
 　　　　　　　みんなからは　ポケモン　はかせと　したわれて　おるよ
 
 * _An image of a Nidorino appears._
 
-オーキド　：　この　せかいには　ポケット　モンスターと　よかれる<br/>
-　　　　　　　いきもの　たちが　いたるところに　すんでいる！<br/>
-　　　　　　　その　ポケモン　という　いきものを　ひとは　ペットに　したり<br/>
-　　　　　　　しょうぶに　つかったり．．．<br/>
-　　　　　　　そして．．．　わたしは　この　ポケモンの　けんきゅうを<br/>
+オーキド　：　この　せかいには　ポケット　モンスターと　よかれる
+　　　　　　　いきもの　たちが　いたるところに　すんでいる！
+　　　　　　　その　ポケモン　という　いきものを　ひとは　ペットに　したり
+　　　　　　　しょうぶに　つかったり．．．
+　　　　　　　そして．．．　わたしは　この　ポケモンの　けんきゅうを
 　　　　　　　してる　というわけだ
 
 * _An image of a boy (the player's character) appears._
 
 オーキド　：　では　はじめに　きみの　なまえを　おしえて　もらおう！
 
-> **＝なまえこうほ＝**<br/>
-> 「じぶんできめる」<br/>
-> 「**レッド**」<br/>
-> 「サトシ」<br/>
+> **＝なまえこうほ＝**
+> 「じぶんできめる」
+> 「**レッド**」
+> 「サトシ」
 > 「ジャック」
 
 オーキド　：　ふむ．．．　レッド　と　いうんだな！
@@ -37,83 +37,83 @@
 　　　　　　　ライバル　である
 　　　　　　　．．．えーと？　なまえは　なんて　いったかな？
 
-> **＝なまえこうほ＝**<br/>
->「じぶんできめる」<br/>
->「**グリーン**」<br/>
->「シゲル」<br/>
+> **＝なまえこうほ＝**
+>「じぶんできめる」
+>「**グリーン**」
+>「シゲル」
 >「ジョン」
 
-オーキド　：　そうだ　そうだ！　おもいだしたぞ　グリーン　という<br/>
+オーキド　：　そうだ　そうだ！　おもいだしたぞ　グリーン　という
 　　　　　　　なまえだ
 
 * _Red's image reappears._
 
-オーキド　：　レッド！<br/>
-　　　　　　　いよいよ　これから　きみの　ものがたりの　はじまりだ！<br/>
-　　　　　　　ゆめと　ぼうけんと！　ポケット　モンスターの<br/>
+オーキド　：　レッド！
+　　　　　　　いよいよ　これから　きみの　ものがたりの　はじまりだ！
+　　　　　　　ゆめと　ぼうけんと！　ポケット　モンスターの
 　　　　　　　せかいへ！　レッツ　ゴー！
 
 ### Original Formatting
 
 ```
-はじめまして！<br/>
-ポケット　モンスターの　せかいへ<br/>
+はじめまして！
+ポケット　モンスターの　せかいへ
 ようこそ！
 
-わたしの　なまえは　オーキド<br/>
-みんなからは　ポケモン　はかせと<br/>
+わたしの　なまえは　オーキド
+みんなからは　ポケモン　はかせと
 したわれて　おるよ
 
-この　せかいには<br/>
+この　せかいには
 ポケット　モンスターと　よかれる
 
-いきもの　たちが<br/>
+いきもの　たちが
 いたるところに　すんでいる！
 
-その　ポケモン　という　いきものを<br/>
-ひとは　ペットに　したり<br/>
+その　ポケモン　という　いきものを
+ひとは　ペットに　したり
 しょうぶに　つかったり．．．
 
 そして．．．
 
-わたしは　この　ポケモンの<br/>
+わたしは　この　ポケモンの
 けんきゅうを　してる　というわけだ
 
-では　はじめに　きみの　なまえを<br/>
+では　はじめに　きみの　なまえを
 おしえて　もらおう！
 
-＝なまえこうほ＝<br/>
-「じぶんできめる」<br/>
-「レッド」<br/>
-「サトシ」<br/>
+＝なまえこうほ＝
+「じぶんできめる」
+「レッド」
+「サトシ」
 「ジャック」
 
-ふむ．．．<br/>
+ふむ．．．
 レッド　と　いうんだな！
 
-こいつは　わたしの　まご<br/>
-きみの　おさななじみであり<br/>
+こいつは　わたしの　まご
+きみの　おさななじみであり
 ライバル　である
 
-．．．えーと？<br/>
+．．．えーと？
 なまえは　なんて　いったかな？
 
-＝なまえこうほ＝<br/>
-「じぶんできめる」<br/>
-「グリーン」<br/>
-「シゲル」<br/>
+＝なまえこうほ＝
+「じぶんできめる」
+「グリーン」
+「シゲル」
 「ジョン」
 
-そうだ　そうだ！　おもいだしたぞ<br/>
+そうだ　そうだ！　おもいだしたぞ
 グリーン　という　なまえだ
 
 レッド！
 
-いよいよ　これから<br/>
+いよいよ　これから
 きみの　ものがたりの　はじまりだ！
 
-ゆめと　ぼうけんと！<br/>
-ポケット　モンスターの　せかいへ！<br/>
+ゆめと　ぼうけんと！
+ポケット　モンスターの　せかいへ！
 レッツ　ゴー！
 ```
 
@@ -123,14 +123,18 @@
 
 * _An image of a man in a lab coat appears._
 
-Oak       : Hello there! Welcome to the world of POKEMON! My name is OAK!
-            People call me the POKEMON PROF!
+Oak       : Hello there!
+		Welcome to the world of POKEMON!
+		My name is OAK!
+        People call me the POKEMON PROF!
 
 * _An image of a Nidorino appears._
 
-Oak       : This world is inhabited by creatures called POKEMON! For some
-            people, POKEMON are pets. Others use them for fights. Myself...
-            I study POKEMON as a profession.
+Oak       : This world is inhabited by creatures called POKEMON!
+		For some people, POKEMON are pets.
+		Others use them for fights.
+		Myself...
+		I study POKEMON as a profession.
 
 * _An image of a boy (the player's character) appears._
 
@@ -168,7 +172,7 @@ the POKéMON PROF!
 
 This world is
 inhabited by
-creates called
+creatures called
 POKéMON!
 
 For some people,
