@@ -1,6 +1,6 @@
 # Graded Sentences for Analysis - Lexicon
 
-This contains an alphabetical list of all the individual words included in the [Graded Sentences for Analysis](../syntax/graded_sentences.md) corpus. This list may be helpful to those who wish to translate words rather than sentences, or as a simple place to keep track of words you've used while progressing through the Graded Sentences. This list contain 2109 individual words, but it should be worth noting that this count involves splitting bound morphemes (like _Puerto Rico_) into their individual words, even though the words themselves may not occur in isolation.
+This contains an alphabetical list of all the individual words included in the [Graded Sentences for Analysis](graded_sentences.md) corpus. This list may be helpful to those who wish to translate words rather than sentences, or as a simple place to keep track of words you've used while progressing through the Graded Sentences. This list contain 2109 individual words, but it should be worth noting that this count involves splitting bound morphemes (like _Puerto Rico_) into their individual words, even though the words themselves may not occur in isolation.
 
 # A
 

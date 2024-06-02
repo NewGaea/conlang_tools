@@ -249,7 +249,7 @@ Several challenges are included below to help you push yourself with this exerci
 >
 > **Task 1:** _If pressed, can you tell this story in a smaller subset of your language's written form than having every glyph available?_
 >
->  The GameBoy had a very small screen -- the longest lines of text in both versions are only 17 characters long, and hyphenation is only used once in the whole text, for the word _grandson_. If you allow for 17 character per line, the 33 lines in the Japanese version would let you use a maximum of 561 characters, while the 38 lines in English would allow 646 characters.
+> > The GameBoy had a very small screen -- the longest lines of text in both versions are only 17 characters long, and hyphenation is only used once in the whole text, for the word _grandson_. If you allow for 17 character per line, the 33 lines in the Japanese version would let you use a maximum of 561 characters, while the 38 lines in English would allow 646 characters.
 >
 > Can you fit your translation into either of these limits? For a bigger challenge:
 >
@@ -261,6 +261,6 @@ Several challenges are included below to help you push yourself with this exerci
 
 ## License
 
-This passage is transcribed from the video games _ポケットモンスター赤緑青_ and the official English translation, _Pokémon Red & Blue Version_. These games, and the translation within them, are originally copyright 1995-1996 by Game Freak.
+This passage is transcribed from the video games _ポケットモンスター赤緑青_ and the official English translation, _Pokémon Red & Blue Version_. These games, and the translations within them, are originally copyright 1995-1996 by Game Freak.
 
 It is the intention of this exercise to provide only a short story which may be translated.

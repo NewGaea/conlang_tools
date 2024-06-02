@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "texts/pop_culture/pokemon_welcome_g1.md",
+                "file": "translations/projects/games/The-Legend-of-Zelda-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/pop_culture/pokemon_welcome_g1.md",
+                "file": "translations/projects/games/The-Legend-of-Zelda-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/pop_culture/pokemon_welcome_g1.md",
+                "file": "translations/projects/games/The-Legend-of-Zelda-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/pop_culture/pokemon_welcome_g1.md"
+                "file": "translations/projects/games/The-Legend-of-Zelda-1.md"
               }
             }
           },
@@ -160,7 +160,16 @@
   },
   "active": "59ab8807759932b7",
   "lastOpenFiles": [
-    "texts/lists/swadesh_207.md",
-    "texts/lists"
+    "translations/projects/projects.md",
+    "translations/projects/games/The-Legend-of-Zelda-1.md",
+    "translations/projects/games",
+    "translations",
+    "translations/texts/lexicon.md",
+    "translations/texts/pop_culture/glass_of_spiders.md",
+    "translations/projects",
+    "translations/texts/pop_culture/pokemon_welcome_g1.md",
+    "translations/texts/pop_culture/rockman_2.md",
+    "translations/texts/lists/swadesh_207.md",
+    "translations/texts/lists"
   ]
 }

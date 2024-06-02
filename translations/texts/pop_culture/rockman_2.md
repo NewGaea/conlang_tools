@@ -74,7 +74,7 @@ Several challenges are included below to help you push yourself with this exerci
 >
 >  The English version required an extra screen of text over the Japanese version, and the widest line of text presented in either version is 27 characters long, but in theory you could fit 32 characters across.
 >
-> The original japanese text, in the game, occupies 161 bytes.
+> The original Japanese text, in the game, occupies 161 bytes.
 >
 > **Task 2:** _If you are limited to 320 glyphs in total, can you tell this story in your language?_
 >

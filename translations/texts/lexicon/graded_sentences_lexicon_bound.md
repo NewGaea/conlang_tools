@@ -1,6 +1,6 @@
 # Graded Sentences for Analysis - Lexicon
 
-This contains an alphabetical list of all the individual words included in the [Graded Sentences for Analysis](../syntax/graded_sentences.md) corpus. This list may be helpful to those who wish to translate words rather than sentences, or as a simple place to keep track of words you've used while progressing through the Graded Sentences.
+This contains an alphabetical list of all the individual words included in the [Graded Sentences for Analysis](graded_sentences.md) corpus. This list may be helpful to those who wish to translate words rather than sentences, or as a simple place to keep track of words you've used while progressing through the Graded Sentences.
 
 This version of the list attempts to analyze the 2109 individual lexemes in the main list as they actually appear, and to list bound words like _Puerto Rico_ or _Abraham Lincoln_ as distinct entries. Where two (or more) lexemes occur only in conjunction with each other, they will be listed together as their own line, whereas if a word can be bound in multiple structures, the bound forms will be placed as a sub-list. Bound structures may be listed under multiple key words.
 

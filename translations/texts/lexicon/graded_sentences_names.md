@@ -1,6 +1,6 @@
 # Graded Sentences for Analysis - Lexicon
 
-This contains an alphabetical list of all the Proper Nouns or Names (or derivations of the same) included in the [Graded Sentences for Analysis](../syntax/graded_sentences.md) corpus. This list may be helpful to those who wish to translate names specifically, or as a simple place to keep track of names you've used while progressing through the Graded Sentences.
+This contains an alphabetical list of all the Proper Nouns or Names (or derivations of the same) included in the [Graded Sentences for Analysis](graded_sentences.md) corpus. This list may be helpful to those who wish to translate names specifically, or as a simple place to keep track of names you've used while progressing through the Graded Sentences.
 
 # A
 
