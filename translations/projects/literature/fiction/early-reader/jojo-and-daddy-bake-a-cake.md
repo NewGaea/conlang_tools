@@ -1,0 +1,449 @@
+---
+tags:
+  - translation
+  - literature
+  - early-reader
+  - jojo
+  - first-person
+  - english
+Origin Date: 2024-12-19
+---
+
+# JoJo and Daddy Bake a Cake
+
+This is a translation, page by page, of _JoJo and Daddy Bake a Cake_ by Jane O'Connor.
+
+## Conventions
+
+Personal Names are phoneticized into Adinjo Journalist, not localized or translated.
+
+- JoJo ${\rightarrow}$ **JOJO**
+- Nancy ${\rightarrow}$ **NÁNSI**
+- Freddy ${\rightarrow}$ **FRÈDI**
+- Frenchy ${\rightarrow}$ **FRÈNCHI**
+
+## Cover - Front
+
+### Fancy Nancy's Little Sister
+
+```ngloss
+\ft Fancy Nancy's Little Sister
+```
+
+### I Can Read!
+
+```ngloss
+\ft I can read
+```
+
+### My First - Shared Reading
+
+```ngloss
+\ft My First - Shared Reading
+```
+
+### JoJo and Daddy Bake a Cake
+
+```ngloss
+\ft JoJo and Daddy Bake a Cake
+```
+
+### Kiss the Cook
+
+```ngloss
+\ft Kiss the Cook
+```
+
+### By Jane O'Connor
+
+```ngloss
+\ft By Jane O'Connor
+```
+
+### Pictures Based on the Art of Robin Preiss Glasser
+
+```ngloss
+\ft Pictures based on the Art of Robin Preiss Glasser
+```
+
+## Cover - Inside
+
+### Hooray!
+
+```ngloss
+\ft Hooray!
+```
+
+### \_\_\_\_ Can Read This Book!
+
+```ngloss
+\ft ____ can read this book!
+```
+
+<!-- 
+### 01 - Dear Parent
+
+This page will eventually be translated, but as it is intended for parents and uses more complex language, it will be translated at a later date.
+
+### 02 - Dedication & Copyright
+
+### 03 - Title Page
+
+This contains much text already presented on **Cover - Front**, so only the new lines will be included here.
+-->
+
+### 05
+
+#### I am Baking a Cake
+
+```ngloss
+\ft I am baking a cake.
+```
+
+#### Daddy is my helper.
+
+```ngloss
+\ft Daddy is my helper.
+```
+
+### 06
+
+#### "Who is the cake for?" Daddy asks.
+
+```ngloss
+\ft "Who is the cake for?" Daddy asks.
+```
+
+### 07
+
+#### I say, "It's a surprise."
+
+```ngloss
+\ft I say, "It's a surprise."
+```
+
+#### Then I zip my lips.
+
+```ngloss
+\ft Then I zip my lips.
+```
+
+### 08
+
+#### We mix lots of stuff into a bowl.
+
+```ngloss
+\ft We mix lots of stuff into a bowl.
+```
+
+### 09
+
+#### I let daddy help.
+
+```ngloss
+\ft I let daddy help.
+```
+
+#### He is a good helper.
+
+```ngloss
+\ft He is a good helper.
+```
+
+### 10
+
+#### Mommy finds the cake pans.
+
+```ngloss
+\ft Mommy finds the cake pans.
+```
+
+#### "Who is the cake for?" Mommy asks.
+
+```ngloss
+\ft "Who is the cake for?" Mommy asks.
+```
+
+### 11
+
+#### I say, "It's a surprise."
+
+```ngloss
+\ft I say, "It's a surprise."
+```
+
+#### Then I zip my lips.
+
+```ngloss
+\ft Then I zip my lips.
+```
+
+### 12
+
+#### I pour the cake mix into the pans.
+
+```ngloss
+\ft I pour the cake mix in the pans.
+```
+
+#### 13
+
+#### I let daddy help me again.
+
+```ngloss
+\ft I let daddy help me again.
+```
+
+#### He is a very good helper.
+
+```ngloss
+\ft He is a very good helper.
+```
+
+#### Daddy puts the pans into the oven.
+
+```ngloss
+\ft Daddy puts the pans in the oven.
+```
+
+### 14
+
+#### Oh, look!
+
+```ngloss
+\ft Oh, look!
+```
+
+#### It's Freddy.
+
+```ngloss
+\ft It's Freddy.
+```
+
+#### He wants to play.
+
+```ngloss
+\ft He wants to play.
+```
+
+### 15
+
+#### I tell him, "I am busy.
+
+```ngloss
+\ft I tell him, "I am busy."
+```
+
+#### "I am baking a cake."
+
+```ngloss
+\ft "I am baking a cake."
+```
+
+### 16
+
+#### "Who is the cake for?" Freddy asks.
+
+```ngloss
+\ft "Who is the cake for?" Freddy asks.
+```
+
+### 17
+
+#### I say, "It's a surprise."
+
+```ngloss
+\ft I say, "It's a surprise."
+```
+
+#### Then I zip my lips.
+
+```ngloss
+\ft Then I zip my lips.
+```
+
+### 18
+
+#### Freddy helps daddy and me make frosting.
+
+```ngloss
+\ft Freddy helps daddy and me make frosting.
+```
+
+#### Now I have two helpers.
+
+```ngloss
+\ft Now I have two helpers.
+```
+
+### 19
+
+#### The frosting is good.
+
+```ngloss
+\ft The frosting is good.
+```
+
+#### It's very, very good!
+
+```ngloss
+\ft It's very, very good!
+```
+
+### 20
+
+#### Soon the pans come out of the oven.
+
+```ngloss
+\ft Soon the pans come out of the oven.
+```
+
+#### Nancy smells the cake.
+
+```ngloss
+\ft Nancy smells the cake.
+```
+
+### 21
+
+#### "Who is it for?" asks my sister.
+
+```ngloss
+\ft "Who is it for?" asks my sister.
+```
+
+#### I say, "It's a surprise."
+
+```ngloss
+\ft I say, "It's a surprise."
+```
+
+#### Then I zip my lips.
+
+```ngloss
+\ft Then I zip my lips.
+```
+
+### 22
+
+#### Nancy helps frost the cake.
+
+```ngloss
+\ft Nancy helps frost the cake..
+```
+
+### 23
+
+#### I have three helpers now.
+
+```ngloss
+\ft I have three helpers now.
+```
+
+#### We make the cake fancy.
+
+```ngloss
+\ft We make the cake fancy.
+```
+
+### 24
+
+#### Daddy says, "Now can you tell us who the cake is for?"
+
+```ngloss
+\ft Daddy says, "Now can you tell us who the cake is for?"
+```
+
+### 25
+
+#### "No. Not yet," I say.
+
+```ngloss
+\ft "No. Not yet," I say.
+```
+
+#### Then I zip my lips.
+
+```ngloss
+\ft Then I zip my lips.
+```
+
+### 26
+
+#### Daddy has to take Frenchy for a walk.
+
+```ngloss
+\ft Daddy has to take Frenchy for a walk.
+```
+
+#### Freddy has to go home.
+
+```ngloss
+\ft Freddy has to go home.
+```
+
+### 27
+
+#### Only Nancy is left.
+
+```ngloss
+\ft Only Nancy is left.
+```
+
+### 28
+
+#### So I unzip my lips.
+
+```ngloss
+\ft So I unzip my lips.
+```
+
+#### I tell Nancy my secret.
+
+```ngloss
+\ft I tell Nancy my secret.
+```
+
+### 29
+
+#### She helps with one last thing.
+
+```ngloss
+\ft She helps with one last thing.
+```
+
+#### 30
+
+#### After dinner I bring out the cake.
+
+```ngloss
+\ft After dinner I bring out the cake.
+```
+
+### 31
+
+#### Daddy sees it.
+
+```ngloss
+\ft Daddy sees it.
+```
+
+#### He is so surprised!
+
+```ngloss
+\ft He is so surprised!
+```
+
+#### It is for him!
+
+```ngloss
+\ft It is for him!
+```
+
+### 32
+
+#### "Because you are the best daddy -- and the best helper -- in the world!"
+
+```ngloss
+\ft Because you are the best daddy -- and the best helper -- in the world!
+```
