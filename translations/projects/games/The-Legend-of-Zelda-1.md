@@ -1,6 +1,6 @@
 # The Legend of Zelda 1
 
-Text Dump from English NES release; Originally Ripped and Formatted by [EvilGiegue](evilgiegue@hotmail.com)
+Text Dump from English NES release; Originally Ripped and Formatted by [EvilGiegue](evilgiegue@hotmail.com), updated and formatted in Markdown by linguaRoo.
 
 ---
 ## ©1986 NINTENDO
