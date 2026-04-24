@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar/_index.md",
+                "file": "translations/projects/games/The-Legend-of-Zelda-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "The-Legend-of-Zelda-1"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/00-d-toc-abbreviations.md",
+                "file": "translations/projects/games/The-Legend-of-Zelda-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-d-toc-abbreviations"
+              "title": "Outline of The-Legend-of-Zelda-1"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,11 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53e435d882bd002b",
+  "active": "94e582a1bcb15c09",
   "lastOpenFiles": [
-    "grammar.zip",
+    "translations/texts/pop_culture/pokemon_welcome_g1.md",
+    "grammar/00-c-dedication.md",
     "grammar/_index.md",
     "grammar/00-d-toc-abbreviations.md",
+    "grammar.zip",
     "grammar/11-sample-text.md",
     "grammar/10-lexicon.md",
     "grammar/09-syntax.md",
@@ -220,7 +223,6 @@
     "grammar/03-nominal-morphology.md",
     "grammar/02-phonology.md",
     "grammar/01-overview.md",
-    "grammar/00-c-dedication.md",
     "grammar/00-b-legal.md",
     "grammar/00-a-cover.md",
     "grammar",
@@ -238,7 +240,6 @@
     "translations/projects/technical/religious-philosophical",
     "translations/projects/poetry-verse",
     "translations/projects/technical",
-    "translations/projects/literature/fiction/classic",
-    "translations/projects/literature/fiction/mainstream"
+    "translations/projects/literature/fiction/classic"
   ]
 }
